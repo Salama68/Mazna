@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\Mazna\Mazna\bin\Debug\net8.0\Mazna.exe
+D:\Random Shit\VSShit\Mazna\Mazna\bin\Debug\net8.0\Mazna.deps.json
+D:\Random Shit\VSShit\Mazna\Mazna\bin\Debug\net8.0\Mazna.runtimeconfig.json
+D:\Random Shit\VSShit\Mazna\Mazna\bin\Debug\net8.0\Mazna.dll
+D:\Random Shit\VSShit\Mazna\Mazna\bin\Debug\net8.0\Mazna.pdb
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.AssemblyInfo.cs
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.dll
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\refint\Mazna.dll
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.pdb
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\Mazna.genruntimeconfig.cache
+D:\Random Shit\VSShit\Mazna\Mazna\obj\Debug\net8.0\ref\Mazna.dll
